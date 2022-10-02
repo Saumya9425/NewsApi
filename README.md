@@ -21,7 +21,7 @@ There are three Endpoints
 
 /news/topic - This endpoint is used to fetch all the news related to the topic or a  phrase passed in the body of request.
 
-/news/category - This endpoint is used to fetch all the news related to a particular category passes in the bodyof request.
+/news/category - This endpoint is used to fetch all the news related to a particular category passed in the body of request.
 
 Postman collection Link
 
